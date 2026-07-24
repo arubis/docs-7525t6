@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-yh3a5x.juragan89.xyz/sitemap.xml
